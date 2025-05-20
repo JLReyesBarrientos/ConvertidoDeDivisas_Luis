@@ -1,4 +1,7 @@
-# 💱 Convertidor de Divisas
+<p align = "center"> 
+   <img scr = "https://laspymes.com.mx/wp-content/blogs.dir/6/files/2022/12/money-1673582_1280-1.png">
+<p/>
+# 💱 <h1>Convertidor de Divisas<h1/>
 
 Este proyecto fue desarrollado como parte de un **💻 Challenge** del **Bootcamp de Altura LATAM** de **Oracle**, en la especialización de **Back-End**.
 
@@ -31,4 +34,8 @@ La respuesta de la API se procesa en **formato JSON**, lo que permite mostrar de
 
 1. 📥 Clonar este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/convertidor-divisas.git
+   [https://github.com/JLReyesBarrientos/ConvertidoDeDivisas_Luis.git]
+2.	🧭 Abrir el proyecto en IntelliJ IDEA.
+3.	▶️ Ejecutar la clase Main.
+
+ ***** Gracias por visitar este repositorio*****
