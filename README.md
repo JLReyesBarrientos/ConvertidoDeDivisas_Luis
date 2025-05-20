@@ -1,8 +1,9 @@
 <img src="https://laspymes.com.mx/wp-content/blogs.dir/6/files/2022/12/money-1673582_1280-1.png">
+
 # 💱 <h1>Convertidor de Divisas<h1/>
 
 
-Este proyecto fue desarrollado como parte de un **💻 Challenge** del **Bootcamp de Altura LATAM** de **Oracle**, en la especialización de **Back-End**.
+<p>Este proyecto fue desarrollado como parte de un **💻 Challenge** del **Bootcamp de Altura LATAM** de **Oracle**, en la especialización de **Back-End**.<p/>
 
 ---
 
