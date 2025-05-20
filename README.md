@@ -1,4 +1,4 @@
-<img src="https://laspymes.com.mx/wp-content/blogs.dir/6/files/2022/12/money-1673582_1280-1.png" alt="https://laspymes.com.mx/wp-content/blogs.dir/6/files/2022/12/money-1673582_1280-1.png" width="719" height="540" class="shrinkToFit transparent">
+<img src="https://laspymes.com.mx/wp-content/blogs.dir/6/files/2022/12/money-1673582_1280-1.png"  width="719" height="540" class="shrinkToFit transparent">
 # 💱 <h1>Convertidor de Divisas<h1/>
 
 
